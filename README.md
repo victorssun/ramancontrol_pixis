@@ -4,6 +4,6 @@ High-level functions of spectrometer control for Princeton Instruments Pixis400 
 Requires odemis & pvcam libraries from https://github.com/delmic/odemis.
 
 
-For others use: requires odemis and pvcam libraries
+For others use: requires odemis and pvcam libraries.
 
-Last modified: almost completed
+Last modified: almost completed.
